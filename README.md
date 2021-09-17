@@ -1,6 +1,9 @@
 # Face-Detection-Project
 Final Year Face Detection Project with Project Report, Project PPT, Research Paper and Synopsis. 
 
+![Screenshot 2021-09-18 at 2 59 29 AM](https://user-images.githubusercontent.com/28294942/133855594-c8a1bc20-eb3e-44b8-9828-aa7c5b90a1b2.png)
+
+
 
 ### PPT: [Face Detection PPT.pdf](https://github.com/Vatshayan/Face-Detection-Project/files/7188440/Face.Detection.PPT.pdf)
 
