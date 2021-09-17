@@ -11,7 +11,7 @@ This research paper gives an ideal way of detecting and recognizing human face u
 
 ![Screenshot 2021-09-18 at 2 28 39 AM](https://user-images.githubusercontent.com/28294942/133853780-f95b8c4f-fb20-4120-ac20-3d80cd21714b.png)
 
-### Code: **[LINK](vatshayan007@gmail.com)** 
+### Code: **[LINK](https://github.com/Vatshayan/Face-Detection-Project/blob/main/face_detection_D.ipynb)** 
 I have made Code Private so that Students can be use for their College projects and References. Mail me I will send you.
 
 Project is Implemened in Python Programming
