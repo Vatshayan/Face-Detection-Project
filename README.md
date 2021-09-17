@@ -14,6 +14,8 @@ This research paper gives an ideal way of detecting and recognizing human face u
 ### Code: **[LINK](vatshayan007@gmail.com)** 
 I have made Code Private so that Students can be use for their College projects and References. Mail me I will send you.
 
+Project is Implemened in Python Programming
+
 
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Developer from India ❤</h3>
