@@ -4,6 +4,7 @@ Final Year Face Detection Project with Project Report, Project PPT, Research Pap
 ![Screenshot 2021-09-18 at 2 59 29 AM](https://user-images.githubusercontent.com/28294942/133855594-c8a1bc20-eb3e-44b8-9828-aa7c5b90a1b2.png)
 
 
+### Youtube Explanation : https://youtu.be/yWWGJKh_GAM
 
 ### PPT: [Face Detection PPT.pdf](https://github.com/Vatshayan/Face-Detection-Project/files/7188440/Face.Detection.PPT.pdf)
 
@@ -27,10 +28,6 @@ Project is Implemened in Python Programming
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
-💌 Feel free to contact me for any kind of help on any projects.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
 
 ### 📫 HOW TO REACH ME 
 
@@ -38,11 +35,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-I am here to help you, Don't worry Mail or Message me anytime😄
-
-#### TOP CSE PROJECTS [CLICK](https://www.cse-projects.com)
-
-### Liked Project?
-If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
-
-### CSE Projects: [LINK](https://www.cse-projects.com)
+### TOP CSE PROJECTS [CLICK](https://www.cse-projects.com)
